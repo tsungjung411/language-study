@@ -1,1 +1,2 @@
-- [nucleotide](https://tw.dictionary.search.yahoo.com/search?p=nucleotide) [ˋnjuklɪə͵taɪd] 【生化】核甘酸
+- [nucleotide](https://tw.dictionary.search.yahoo.com/search?p=nucleotide) [ˋnjuklɪə͵taɪd] 【生化】核苷酸/核甘酸, 2019.07.04
+  - 「新的」「可麗餅」製作很胎哥(骯髒)，因為是拿動物屍體的「核苷酸」來製作的
