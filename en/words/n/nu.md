@@ -1,0 +1,1 @@
+- [nucleotide](https://tw.dictionary.search.yahoo.com/search?p=nucleotide) [ˋnjuklɪə͵taɪd] 【生化】核甘酸
