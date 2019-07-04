@@ -1,2 +1,2 @@
-- [amino](https://tw.dictionary.search.yahoo.com/search?p=nucleotide) amino [ˋæmɪno][ˋæsɪd] 胺基酸, 2019.07.04
+- [amino](https://tw.dictionary.search.yahoo.com/search?p=nucleotide) acid [ˋæmɪno][ˋæsɪd] 胺基酸, 2019.07.04
   - 邁阿密的牛生產的牛奶，富含胺基酸
