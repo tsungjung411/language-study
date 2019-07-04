@@ -1,2 +1,2 @@
-- [peptide](https://tw.dictionary.search.yahoo.com/search?p=peptide) ˋpɛptaɪd] 胜肽/縮氨酸, 2019.07.04
+- [peptide](https://tw.dictionary.search.yahoo.com/search?p=peptide) [ˋpɛptaɪd] 胜肽/縮氨酸, 2019.07.04
   - 「佩佩豬」很胎哥(骯髒)，身上黏了一堆腐敗的屍塊，蛋白質都已經分解成胜肽
