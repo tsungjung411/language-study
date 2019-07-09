@@ -1,3 +1,4 @@
 - [pretty](https://tw.dictionary.search.yahoo.com/search?p=pretty) [ˋprɪtɪ], 2019.07.09
   - adj. 漂亮的；秀麗的；可愛的；優美的
-    - She's so pretty. 她是一隻很可愛的肥豬(pretty)。
+    - She's so pretty. 她真漂亮 / 她真可愛
+      - 她是一隻很可愛的肥豬(pretty)。
