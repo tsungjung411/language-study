@@ -1,3 +1,10 @@
 - [haploid](https://tw.dictionary.search.yahoo.com/search?p=haploid) [ˋhæplɔɪd] 單倍體, 2019.07.10
   - hey, playboy (嘿，花花公子)都是擁有想要尋找卵子的單倍體
     - [定義](https://blog.xuite.net/roy.isbest/royisbest/6054546)：具有配子染色體的細胞或個體。
+- [haplotype](https://tw.dictionary.search.yahoo.com/search?p=haplotype) [ˈhapləʊtʌɪp], 2019.07.10
+  - haplotype (?) = haploid[ˋhæplɔɪd] 單倍體 + genotype[ˋdʒɛno͵taɪp] 基因型
+    - 單倍[數][基因]型
+    - 單倍型
+    - 單型
+    - [同種抗原雜交後之整組遺傳](http://terms.naer.edu.tw/detail/717193/)
+  - 哈伯類型(haplotype)的太空望遠鏡，是(太空望遠鏡的)第一代基因型
