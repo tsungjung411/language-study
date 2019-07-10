@@ -1,0 +1,3 @@
+- [haploid](https://tw.dictionary.search.yahoo.com/search?p=haploid) [ˋhæplɔɪd] 單倍體, 2019.07.10
+  - hey, playboy (嘿，花花公子)都是擁有想要尋找卵子的單倍體
+    - [定義](https://blog.xuite.net/roy.isbest/royisbest/6054546)：具有配子染色體的細胞或個體。

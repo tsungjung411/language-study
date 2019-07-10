@@ -1,2 +1,0 @@
-- [gamete](https://tw.dictionary.search.yahoo.com/search?p=gamete) [ˋgæmit] 【生】配偶子，配子, 2019.07.10
-  - 給你(gamate)配子，讓你產生下一代
