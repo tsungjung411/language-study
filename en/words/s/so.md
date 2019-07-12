@@ -1,0 +1,2 @@
+- [somatic](https://tw.dictionary.search.yahoo.com/search?p=somatic) [soˋmætɪk] 身體的；細胞體的, 2019.07.12
+  - 這個男人身體的(somatics)肌肉，好結實哦，好 men (soma)
