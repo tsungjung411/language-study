@@ -1,2 +1,3 @@
 - [overwhelming](https://tw.dictionary.search.yahoo.com/search?p=overwhelming) amount [͵ovɚˋhwɛlmɪŋ] 絕大多數, 2019.07.15
+  - 囤積過多的惠而敏(whelming)產品，太 over 了，絕大多數是[益生菌產品](https://www.pcstore.com.tw/V040958/M21660030.htm)
   - ex. https://dictionary.cambridge.org/zht/example/%E8%8B%B1%E8%AA%9E/overwhelming-amount
