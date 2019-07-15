@@ -1,0 +1,2 @@
+- [overwhelming](https://tw.dictionary.search.yahoo.com/search?p=overwhelming) amount [͵ovɚˋhwɛlmɪŋ] 絕大多數, 2019.07.15
+  - ex. https://dictionary.cambridge.org/zht/example/%E8%8B%B1%E8%AA%9E/overwhelming-amount
