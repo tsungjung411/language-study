@@ -1,3 +1,6 @@
+- BRCA = breast[brɛst] + cancer[ˋkænsɚ], 乳癌, 2019.07.16
+  - 影片：https://www.youtube.com/watch?v=Aj-wzRP5KxE
+  
 - [breast](https://tw.dictionary.search.yahoo.com/search?p=breast) [brɛst] 乳房；胸部, 2019.07.16
   - 東邊(east)的那塊磚塊(brick)，造型貌似女人的乳房
 
