@@ -2,3 +2,6 @@
   - adj. 漂亮的；秀麗的；可愛的；優美的
     - She's so pretty. 她真漂亮 / 她真可愛
       - 她是一隻很可愛的肥豬(pretty)。
+- [prune](https://tw.dictionary.search.yahoo.com/search?p=prune) [prun], 2019.07.17
+  - Vt. 修剪
+    - 僕人(prune)每天要做的例行工作，就是修剪樹枝(prune)
