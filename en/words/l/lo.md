@@ -1,0 +1,3 @@
+- [locus](https://tw.dictionary.search.yahoo.com/search?p=locus) [ˋlokəs], 2019.07.22
+  - 所在地
+    - 這顆[鏤刻](https://www.moedict.tw/~%E9%8F%A4%E5%88%BB)石(locus)所在地(locus)，我完完全全記得起來，因為那顆石頭被我刻上「到此一遊」
