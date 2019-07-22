@@ -1,0 +1,2 @@
+- [chromosome](https://tw.dictionary.search.yahoo.com/search?p=chromosome) [ˋkromə͵som] 【生】染色體, 2019.07.22
+  - 染色體被細胞核包住，就如同被鍋悶(chromo)一樣，這個燜燒鍋可以省時、省力、省電費，爽(some)
