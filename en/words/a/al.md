@@ -1,0 +1,3 @@
+- [allele](https://tw.dictionary.search.yahoo.com/search?p=allele) [əˋlil] （孟德爾遺傳學中的）等位基因, 2019.07.24
+  - 那隻老天鵝(al)，總是有一堆理由(lele)：「我的老天鵝啊！」，因為它的「等位基因(alele)」是顯性的
+  - 早期：對偶基因，晚期：等位基因
