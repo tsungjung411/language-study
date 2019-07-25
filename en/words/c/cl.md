@@ -1,0 +1,2 @@
+- [clipped](https://tw.dictionary.search.yahoo.com/search?p=clipped) [klɪpt] adj. 省略一部分的, 2019.07.25
+  - 環形的可麗餅(clip)，中間被挖掉了，可以省略一部分材料(clipped)
