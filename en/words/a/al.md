@@ -4,7 +4,7 @@
   - 定義：單套軟色體上的片段
   - 功能：兩個等位基因，組成一個基因，用來控制相同性狀
   
- - [alliance](https://tw.dictionary.search.yahoo.com/search?p=alliance) [əˋlaɪəns] 聯盟, 2019.07.25
+- [alliance](https://tw.dictionary.search.yahoo.com/search?p=alliance) [əˋlaɪəns] 聯盟, 2019.07.25
   - 請給我一杯(a)「布萊恩(lian)」紅茶，這家紅茶店由養生聯盟(alliance)所加盟。
   - 對照：[alien](https://tw.dictionary.search.yahoo.com/search?p=alien) [ˋelɪən] 外星人, 外星人聯盟 Alien Alliance
   - 對照：[alias](https://tw.dictionary.search.yahoo.com/search?p=alias) [ˋelɪəs] 別名
