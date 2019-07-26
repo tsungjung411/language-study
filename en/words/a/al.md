@@ -8,3 +8,6 @@
   - 請給我一杯(a)「布萊恩(lian)」紅茶，這家紅茶店由養生聯盟(alliance)所加盟。
   - 對照：[alien](https://tw.dictionary.search.yahoo.com/search?p=alien) [ˋelɪən] 外星人, ali+en(外星人會講英語), 外星人聯盟 Alien Alliance
   - 對照：[alias](https://tw.dictionary.search.yahoo.com/search?p=alias) [ˋelɪəs] 別名, ali+as(xxx 如同 yyy)
+
+- [Alternative](https://tw.dictionary.search.yahoo.com/search?p=Alternative) [splicing](https://tw.dictionary.search.yahoo.com/search?p=splicing) [ɔlˋtɝnətɪv] 選擇性剪接, 2019.07.25
+  - 選擇性剪接是基因表現的方式
