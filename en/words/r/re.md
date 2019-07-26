@@ -1,0 +1,3 @@
+- [reciprocal](https://tw.dictionary.search.yahoo.com/search?p=reciprocal) [rɪˋsɪprək!] aj. 相互的，交互的, 2019.07.26
+  - 當你收到收據(receipt)，專業人士(pro)還會打電話(call)過來，詢問你是否收到，是一種相互的行為
+  - 相互轉位(reciprocal translocation) = 染色體易位
