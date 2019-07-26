@@ -1,6 +1,6 @@
     
 - [gene](https://tw.dictionary.search.yahoo.com/search?p=gene) [dʒin] 【生】基因，遺傳因子, 2019.07.26
-  - 
+  - 人人都想要擁有吉姆(Jim)的基因(gene)
 
 - [genotype](https://tw.dictionary.search.yahoo.com/search?p=genotype) [ˋdʒɛno͵taɪp] 基因型, 2019.07.10
   - 我想要擁有像[傑諾](https://forum.gamer.com.tw/C.php?bsn=7650&snA=959673)那樣全能的基因型(genotype)
