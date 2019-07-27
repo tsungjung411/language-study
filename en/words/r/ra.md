@@ -1,0 +1,2 @@
+- [radian](https://tw.dictionary.search.yahoo.com/search?p=radian) [ˋredɪən] 【數】弧度, 2019.07.27
+- [radius](https://tw.dictionary.search.yahoo.com/search?p=radius) [ˋredɪəs] 半徑, 2019.07.27
