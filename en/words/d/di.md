@@ -1,2 +1,4 @@
 - [dichotomy](https://tw.dictionary.search.yahoo.com/search?p=dichotomy) [daɪˋkɑtəmɪ] 二分法, 2019.07.09
   - 敗腳的東尼住院中，無法參與二分法的投票
+- [diameter](https://tw.dictionary.search.yahoo.com/search?p=diameter) [daɪˋæmətɚ] 直徑, 2019.07.27
+  - 死亡(die)計量器(meter)
