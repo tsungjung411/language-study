@@ -2,3 +2,5 @@
   - 外(wi)耳朵(ld) = wild
   - adj. 野生的
     - 野生的(wild)動物都要有大大的外耳朵(wild)，才能具備良好的聽力，以便即時捕獵或躲避敵人
+    - Those are wild roses. 那些是野玫瑰。
+    
