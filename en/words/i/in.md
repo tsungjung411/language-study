@@ -1,2 +1,5 @@
+- [instrument](https://tw.dictionary.search.yahoo.com/search?p=instrument) [ˋɪnstrəmənt] 工具, 2019.07.30
+  - 法師用鏟子工具挖了那一個陰屍丘(instru)，阿們(ment)!
+  
 - [insurance](https://tw.dictionary.search.yahoo.com/search?p=insurance) [ɪnˋʃʊrəns] 保險；保險契約；保險業, 2019.07.06
   - 這個保險 issue 太嫩了，三兩下就搞定客戶
