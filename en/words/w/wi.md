@@ -1,0 +1,4 @@
+- [wild](https://tw.dictionary.search.yahoo.com/search?p=wild) [waɪld], 2019.07.30
+  - 外(wi)耳朵(ld) = wild
+  - adj. 野生的
+    - 野生的(wild)動物都要有大大的外耳朵(wild)，才能具備良好的聽力，以便即時捕獵或躲避敵人
