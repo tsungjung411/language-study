@@ -1,0 +1,2 @@
+- [supersede](https://tw.dictionary.search.yahoo.com/search?p=supersede) [͵supɚˋsid] vt. 代替，取代, 2019.07.30
+  - 科學家發明了超級種子(super seed)來取代(supersede)爛種子
