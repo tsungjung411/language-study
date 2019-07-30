@@ -1,0 +1,3 @@
+- [trailing](https://tw.dictionary.search.yahoo.com/search?p=trailing) [ˋtrelɪŋ] 後面的, 2019.07.30
+  - float pi = 3.141592f <--- the trailing f (後面的f)
+  - trailing wheel 後輪
