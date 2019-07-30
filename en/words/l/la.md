@@ -1,0 +1,3 @@
+- [language](https://tw.dictionary.search.yahoo.com/search?p=language) [ˋlæŋgwɪdʒ], 2019.07.30
+  - 語言；語言文字
+    - 語言(language)真的很難，連鬼(lan-gua)也GG了(連鬼也都投降了)
