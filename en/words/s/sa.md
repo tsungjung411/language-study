@@ -4,3 +4,4 @@
   
 - [Sus](https://tw.dictionary.search.yahoo.com/search?p=Sus) scrofa [sʌs][ˋskrɔfɑ]  野豬, 2019.07.31
   - = wild boar[bor]
+  - 這隻野豬可以對抗 SARS(sus)，還能滾動(scroll)樂器製造出fa音(scrofa)
