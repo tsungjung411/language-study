@@ -1,6 +1,7 @@
 - [degenerate](https://tw.dictionary.search.yahoo.com/search?p=degenerate) [dɪˋdʒɛnə͵rɪt], 2019.07.30
   - adj. 墮落的; 自甘墮落(的)
     - 弟弟(de)覺得(gene)很落魄
+    - He didn't let riches and luxury make him degenerate. 他不因財富和奢華而自甘墮落。
   - adj.【生】退化的
   
 - [determinant](https://tw.dictionary.search.yahoo.com/search?p=determinant) [dɪˋtɝmənənt], 2019.07.10
