@@ -1,0 +1,3 @@
+- [homozygous](https://tw.dictionary.search.yahoo.com/search?p=homozygous) [͵homəˋzaɪgəs], 2019.08.01
+  - 同型合子 / 純合子
+    - 在家(home)賽鴿子(zygous)，這群被馴養的鴿子，都是具有同型合子的超強鴿子
