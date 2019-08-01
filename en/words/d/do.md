@@ -4,3 +4,6 @@
      - 完全顯性(complete dominance)
      - 半顯性(partial dominance)
      - 等顯性(co-dominance)
+- [dominant](https://tw.dictionary.search.yahoo.com/search?p=dominant) [ˋdɑmənənt], 2019.08.01
+  - n. 【生】顯性的
+     - 阿達們(domi)雖然笨笨的，但做出來的菜卻很嫩，又很特別(nant)，這是顯性基因助他們一臂之力。
