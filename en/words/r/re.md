@@ -4,3 +4,7 @@
     - 相互轉位(reciprocal translocation) = 染色體易位
   - 回報的，報答的
     - reciprocal gifts 回贈禮品
+    
+- [recessive](https://tw.dictionary.search.yahoo.com/search?p=recessive) [rɪˋsɛsɪv], 2019.08.01
+  - 【生】隱性的
+    - 重新再成功(re + success -> recess)後，我就完成使命，退回基因深處，成為隱性基因
