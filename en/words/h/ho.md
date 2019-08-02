@@ -1,4 +1,4 @@
-- [homo sapiens](https://tw.dictionary.search.yahoo.com/search?p=homo+sapiens) [ˋsepɪənz] 人類；現代人；智人（現代人的學名）, 2019.07.30
+- [homo sapiens](https://tw.dictionary.search.yahoo.com/search?p=homo+sapiens) [ˋhomo][ˋsepɪənz] 人類；現代人；智人（現代人的學名）, 2019.07.30
 
 - [homozygous](https://tw.dictionary.search.yahoo.com/search?p=homozygous) [͵homəˋzaɪgəs], 2019.08.01
   - 同型合子 / 純合子
