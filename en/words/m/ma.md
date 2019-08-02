@@ -5,6 +5,7 @@
 - [maternal](https://tw.dictionary.search.yahoo.com/search?p=maternal) [məˋtɝn!], 2019.07.30
   - 母體遺傳的
     - 母體遺傳的(maternal)基因 是來自媽媽(ma)的機會(turn)
+    - 對比：maternal <-> paternal[pəˋtɝn!] (父親遺傳的)
 
 - [mantissa](https://tw.dictionary.search.yahoo.com/search?p=mantissa) [mænˋtɪsə] 【數】假數，（對數的）尾數, 2019.07.30
   - 那個男人(man)用腳在踢沙包(tissa)，腳的軌跡剛好是某個尾數(mantissa)所描述的指數軌跡
