@@ -1,4 +1,5 @@
 - [trailing](https://tw.dictionary.search.yahoo.com/search?p=trailing) [ˋtrelɪŋ] 後面的, 2019.07.30
+  - 你後面的人，正追你(trai + ling)跑
   - float pi = 3.141592f <--- the trailing f (後面的f)
   - trailing wheel 後輪
   - trailing spouse 隨遷配偶（因伴侶更換工作而放棄自己的工作，隨其搬到另一地方的人）
