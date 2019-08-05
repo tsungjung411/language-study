@@ -3,3 +3,7 @@
   
 - [insurance](https://tw.dictionary.search.yahoo.com/search?p=insurance) [ɪnˋʃʊrəns] 保險；保險契約；保險業, 2019.07.06
   - 這個保險 issue 太嫩了，三兩下就搞定客戶
+  
+- [intuitively](https://tw.dictionary.search.yahoo.com/search?p=intuitively) [ɪnˋtjuɪtɪvlɪ] 直覺地, 2019.08.05
+  - rather intuitively 相當直覺
+  - rather unintuitively 相當不直覺
