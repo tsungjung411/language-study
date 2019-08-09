@@ -1,12 +1,13 @@
 - [deoxyribonucleic](https://tw.dictionary.search.yahoo.com/search?p=deoxyribonucleic) acid [di͵ɑksiraɪbonuˋkliɪk] 去氧核糖核酸, 2019.08.09
-  - C-T
+  - CT 同類
     - 胞嘧啶（cytosine，C）[ˋsaɪto͵sin]
     - 胸腺嘧啶（thymine，T）[ˋθaɪmin]
     - 要保密(胞嘧)我的胸毛很濃密(胸_嘧_)這件事
-  - A-G
+  - AG 同類
     - 腺嘌呤（adenine，A）[ˋædənɪn]
     - 鳥嘌呤（guanine，G）[ˋgwɑnin]
     - 防鳥線(嚇鳥線)
+  - 組合：A+T, C+G
 
 - [degenerate](https://tw.dictionary.search.yahoo.com/search?p=degenerate) [dɪˋdʒɛnə͵rɪt], 2019.07.30
   - adj. 墮落的; 自甘墮落(的)
