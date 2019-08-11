@@ -2,3 +2,4 @@
   - 輔助的
     - auxiliary machinery[məˋʃinərɪ] 輔助機器
   - auxiliary cable 音源線
+    - 在暑假八月(Aug.)的時候有特價，買音源線(auxiliary cable)比較便比較便宜
