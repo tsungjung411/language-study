@@ -12,6 +12,7 @@
 - [allocation](https://tw.dictionary.search.yahoo.com/search?p=allocation) [͵æləˋkeʃən] n., 2019.07.25
   - 配置
     - Dynamic Memory Allocation 動態記憶體配置
+      - malloc 發音 https://www.youtube.com/watch?v=xDVC3wKjS64
     - 從所有的地點(all location) 分配資源出來使用
 
 - [Alternative](https://tw.dictionary.search.yahoo.com/search?p=Alternative) [splicing](https://tw.dictionary.search.yahoo.com/search?p=splicing) [ɔlˋtɝnətɪv] 選擇性剪接, 2019.07.25
