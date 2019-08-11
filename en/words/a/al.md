@@ -9,5 +9,9 @@
   - 對照：[alien](https://tw.dictionary.search.yahoo.com/search?p=alien) [ˋelɪən] 外星人, ali+en(外星人會講英語), 外星人聯盟 Alien Alliance
   - 對照：[alias](https://tw.dictionary.search.yahoo.com/search?p=alias) [ˋelɪəs] 別名, ali+as(xxx 如同 yyy)
 
+- [allocation](https://tw.dictionary.search.yahoo.com/search?p=allocation) [͵æləˋkeʃən] n., 2019.07.25
+  - 配置
+    - Dynamic Memory Allocation 動態記憶體配置
+
 - [Alternative](https://tw.dictionary.search.yahoo.com/search?p=Alternative) [splicing](https://tw.dictionary.search.yahoo.com/search?p=splicing) [ɔlˋtɝnətɪv] 選擇性剪接, 2019.07.25
   - 選擇性剪接是基因表現的方式
