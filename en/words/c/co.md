@@ -3,4 +3,4 @@
 - [consequence](https://tw.dictionary.search.yahoo.com/search?p=consequence) [ˋkɑnsə͵kwɛns] n., 2019.08.12
   - con sequence 共同的序列，就是大家的思緒結果，匯集成最後的結果
   - 結果，後果
-    - 
+    - 音樂會(concert [ˋkɑnsɚt])的演奏結果(consequence)，讓大家都很滿意
