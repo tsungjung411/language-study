@@ -10,3 +10,5 @@
   <br>https://tw.blog.voicetube.com/archives/50052
 - 【實用英文】在國外購物卻看不懂特價的英文？學會這些單字，給你最划算的「大平台」！
   <br>https://tw.blog.voicetube.com/archives/33183
+- 【實用】擺脫只會用 I think 的魔咒！「我覺得、我認為」的句型總整理
+  <br>https://tw.blog.voicetube.com/archives/37903
