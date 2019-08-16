@@ -1,0 +1,2 @@
+- [cerebellum](https://tw.dictionary.search.yahoo.com/search?p=cerebellum) [͵sɛrəˋbɛləm] 小腦, 2019.08.16
+  - 生日慶生(celebrate[ˋsɛlə͵bret])，使用杯子(bel)造型的蛋糕
