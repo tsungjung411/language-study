@@ -1,2 +1,4 @@
 - [clipped](https://tw.dictionary.search.yahoo.com/search?p=clipped) [klɪpt] adj. 省略一部分的, 2019.07.25
   - 環形的可麗餅(clip)，中間被挖掉了，可以省略一部分材料(clipped)
+- [clade](https://tw.dictionary.search.yahoo.com/search?p=clade) [kled] 【生】（分類上的）進化枝；分化枝, 2019.08.16
+  - 演化錯誤，一直咳嗽，咳累了(clade)...再進化分枝上 跑進了死胡同
