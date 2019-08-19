@@ -7,6 +7,10 @@
 - [intergenic](https://tw.dictionary.search.yahoo.com/search?p=intergenic) 【生物】基因間的, 2019.08.19
   - intergenic region 基因間區段
   
+- [intron](https://tw.dictionary.search.yahoo.com/search?p=intron) 【生物】內含子, 2019.08.19
+  - 歹徒想要綁架 DNA，硬闖(intron)，結果闖空門，這個房間叫做「內含子」
+  - intron(內含子) v.s. exon(外顯子)
+  
 - [intuitively](https://tw.dictionary.search.yahoo.com/search?p=intuitively) [ɪnˋtjuɪtɪvlɪ] 直覺地, 2019.08.05
   - 在古老的時代，若需要水，就直接從地底下硬抽(intui)水上來，是相當直覺地(intuitively)
   - rather intuitively 相當直覺
