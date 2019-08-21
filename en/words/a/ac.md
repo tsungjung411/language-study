@@ -1,0 +1,5 @@
+- [accession](https://tw.dictionary.search.yahoo.com/search?p=accession) [ækˋsɛʃən], 2019.08.21
+  - 比較：session[ˋsɛʃən] 會話, 對談
+  - 要求對談(ask session) (ac + cession)
+  - n. 正式加入
+    - 要求對談後，主席正式加入
