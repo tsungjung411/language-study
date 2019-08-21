@@ -7,6 +7,6 @@
 - [radius](https://tw.dictionary.search.yahoo.com/search?p=radius) [ˋredɪəs] 半徑, 2019.07.27
   - 美國(us)領土東西長 4500 公里，佔地球半徑(radius)的 7成(70%)
   
-- [Rattus](https://tw.dictionary.search.yahoo.com/search?p=Rattus) norvegicus
+- [Rattus](https://tw.dictionary.search.yahoo.com/search?p=Rattus) norvegicus [[nɔrˈwɛ.ɡɪ.kʊs]](https://en.wiktionary.org/wiki/norvegicus)
   褐鼠, 2019.08.21
   - 人們不知為何將其命名為挪威鼠，實際上牠們並不是來自挪威，不過事實上此物種是來自丹麥。
