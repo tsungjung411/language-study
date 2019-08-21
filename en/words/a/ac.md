@@ -3,3 +3,5 @@
   - 要求對談(ask session) (ac + cession)
   - n. 正式加入
     - 要求對談後，主席正式加入
+  - n. 登錄
+    - accession Number 登錄號
