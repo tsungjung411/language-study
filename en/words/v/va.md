@@ -2,8 +2,8 @@
   - 瑪莉被吃掉(mary + ate)的變量
   - 【統】變量
   - [比較](http://eschool.kuas.edu.tw/tsungo/Publish/01%20Data%20and%20statistics.pdf)
-    - 變數(variable)
-    - 變量(variate)
+    - 變數(variable)，使用大寫字母表示，如變數X
+    - 變量(variate)，使用小寫字母表示，如變量x
     - 變數的數值，叫做變量
     - **單變量資料(univariate)**: 資料中針對每個基本單位只記錄一個(種或類)資料，所以只針對一個變數進行評量。
       - 旅館名稱 平均房價
