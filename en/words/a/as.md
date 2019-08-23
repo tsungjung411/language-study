@@ -1,3 +1,4 @@
 - [assembly](https://tw.dictionary.search.yahoo.com/search?p=assembly), 2019.07.30
   - 組合件，配件[C] (整體的一部分)
     - 用組合語言(assembly language)寫出軟體的配件(assembly)
+  - sequence assembly 序列組裝 (基因體)
