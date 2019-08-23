@@ -1,0 +1,19 @@
+- [variate](https://tw.dictionary.search.yahoo.com/search?p=variate) [ˋvɛrɪet], 2019.08.23
+  - 瑪莉被吃掉(mary + ate)的變量
+  - 【統】變量
+  - [比較](http://eschool.kuas.edu.tw/tsungo/Publish/01%20Data%20and%20statistics.pdf)
+    - 變數(variable)
+    - 變量(variate)
+    - 變數的數值，叫做變量
+    - **單變量資料(univariate)**: 資料中針對每個基本單位只記錄一個(種或類)資料，所以只針對一個變數進行評量。
+      - 旅館名稱 平均房價
+      - A NT$3562
+      - B NT$3962
+      - C NT$3462
+      - D NT$4662
+    - **雙變量資料(bivariate)**: 資料中針對每個基本單位只記錄兩個(種或類)資料，所以同時只針對兩個變數進行評量。
+      - 旅館名稱 平均房價 房間數量
+      - A NT$3562 250
+      - B NT$3962 265
+      - C NT$3462 350
+      - D NT$4662 450
