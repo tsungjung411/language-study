@@ -18,3 +18,4 @@
 
 - [Alternative](https://tw.dictionary.search.yahoo.com/search?p=Alternative) [splicing](https://tw.dictionary.search.yahoo.com/search?p=splicing) [ɔlˋtɝnətɪv] 選擇性剪接, 2019.07.25
   - 選擇性剪接是基因表現的方式
+  - 原始(native[ˋnetɪv])的黑桃(alter)，是選擇性剪接而來的
