@@ -1,4 +1,4 @@
-- [auxiliary](https://tw.dictionary.search.yahoo.com/search?p=auxiliary), 2019.08.11
+- [auxiliary](https://tw.dictionary.search.yahoo.com/search?p=auxiliary) [ɔgˋzɪljərɪ], 2019.08.11
   - 輔助的
     - auxiliary machinery[məˋʃinərɪ] 輔助機器
   - auxiliary cable 音源線
