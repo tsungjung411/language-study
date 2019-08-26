@@ -4,6 +4,9 @@
 - [homologous](https://tw.dictionary.search.yahoo.com/search?p=homologous) [hoˋmɑləgəs] 同源的, 2019.08.26
   - 猴(ho)罵(molo)了哥(gou)，去死(s)，因為他們兩兄弟具有同源染色體
   - homo + logo + us
+  - homologous chromosome 同源染色體
+    - 一對具有相同結構特徵的染色體，外形、構造和大小都相同，又稱同型染色體，
+    - 而每一對同源染色體中，一條來自母系，另外一條則來自父系。
 
 - [homozygous](https://tw.dictionary.search.yahoo.com/search?p=homozygous) [͵homəˋzaɪgəs], 2019.08.01
   - 同型合子 / 純合子
