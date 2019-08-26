@@ -1,0 +1,3 @@
+## ...的...
+- risk for diseases 疾病的風險
+- adverse response to drugs 對藥物的不良反應
