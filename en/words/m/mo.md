@@ -1,0 +1,2 @@
+- [monogenic](https://tw.dictionary.search.yahoo.com/search?p=monogenic) [͵mɑnəˋdʒɛnɪk] 單基因的, 2019.08.26
+  - mono + gene + -ic(由……形成的)
