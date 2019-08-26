@@ -1,2 +1,2 @@
 - [ribosome](https://tw.dictionary.search.yahoo.com/search?p=ribosome) [ˋraɪbəsom] 核糖體(核酸醣小體), 2019.08.26
-  - 
+  - 纖維(fiber)多多(一些 some)，是由核糖體(ribosome)製造的嗎？
