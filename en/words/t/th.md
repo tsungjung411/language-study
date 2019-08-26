@@ -1,0 +1,2 @@
+- [therapeutic](https://tw.dictionary.search.yahoo.com/search?p=therapeutic) [͵θɛrəˋpjutɪk] 治療的, 2019.08.26
+  - 這裡(there)有一個(a) PuTTy(peuti)，可以連 telnet 來分享心情，有治療的效果
