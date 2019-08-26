@@ -1,0 +1,2 @@
+- [ribosome](https://tw.dictionary.search.yahoo.com/search?p=ribosome) [ˋraɪbəsom] 核糖體(核酸醣小體), 2019.08.26
+  - 
