@@ -8,3 +8,5 @@
   - equal [ˋikwəl] 相等的
   - unequal [ʌnˋikwəl] 不相等的（沒有disequal）
   - 衣(e)服的兩邊輪廓(qual)，是對稱相等的
+  - 你(li)是 Brian[braɪən](<-> brium[brɪəm]) 嗎？這件衣服的兩邊輪廓，是特別為你訂做的，兩邊對稱相等的
+  
