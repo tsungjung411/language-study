@@ -1,0 +1,3 @@
+- [license](https://tw.dictionary.search.yahoo.com/search?p=license) [ˋlaɪsns], 2019.08.28
+  - 3-clause BSD license 三條款 BSD 許可證
+  - license (自由軟體)授權條款
