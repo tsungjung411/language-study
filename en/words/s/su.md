@@ -2,8 +2,9 @@
   - 科學家發明了超級種子(super seed)來取代(supersede)爛種子
 
 - [susceptible](https://tw.dictionary.search.yahoo.com/search?p=susceptible) [səˋsɛptəb!] 2019.08.28
-  - susceptible [səˋsɛptəb!]
+  - susceptible [səˋsɛptəb!] 容易受感染的
     <br>acceptable [əkˋsɛptəb!] 可以接受的
+    <br>SARS 對豬隻(sus)來說，是容易受感染的 susceptible
   - 容易受感染的
     - [癌症易感基因(cancer susceptibility gene 或稱為 predisposing gene)](https://www.ntuh.gov.tw/gene/consult/Pages/cancerge.aspx) [sə͵sɛptəˋbɪlətɪ]/[͵pridɪsˋpozɪŋ]
     - 可以依照癌症的外顯率(penetrance[ˋpɛnətrəns])分成
