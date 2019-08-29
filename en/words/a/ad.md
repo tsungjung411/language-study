@@ -1,3 +1,4 @@
 - [adverse](https://tw.dictionary.search.yahoo.com/search?p=adverse) [ædˋvɝs], 2019.08.26
   - 不良的
     - 把基因反轉(reverse)，產生出不良的(adverse)基因
+    - an adverse response 不良反應 / 不良影響
