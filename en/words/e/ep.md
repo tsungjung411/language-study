@@ -1,3 +1,7 @@
+- [epidemiology](https://tw.dictionary.search.yahoo.com/search?p=epidemiology) [ˋɛpɪ͵dimɪˋɑlədʒɪ] 流行病學
+, 2019.08.30
+  - 上位作用(epi:epistasis)展示(demo:demi)的科學(ology)
+
 - [epistasis](https://tw.dictionary.search.yahoo.com/search?p=epistasis) [ɪˋpɪstəsɪs] (基因的)上位作用, 2019.07.23
   - 他的基因起了上位作用，他(i)既愛放屁(pi)又好色(sta)，討人厭，去死一死(sis)
 
