@@ -1,0 +1,2 @@
+- [anterior](https://tw.dictionary.search.yahoo.com/search?p=anterior) [ænˋtɪrɪɚ] 前面的, 2019.08.30
+  - 對抗(anti- [ˋæntɪ])後面的(rear[rɪr]:rior)，就是前面的(anterior)
