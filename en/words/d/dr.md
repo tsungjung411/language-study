@@ -1,0 +1,2 @@
+- [drastically](https://tw.dictionary.search.yahoo.com/search?p=drastically) [ˋdræstɪk!ɪ] 大大地, 2019.09.04
+  - 垂死的掙扎，大大地提高生存機率
