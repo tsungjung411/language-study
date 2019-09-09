@@ -5,5 +5,8 @@
   - Experiments on simulation data 模擬資料的實驗
   - calls with uncertainty 帶有不確定的呼叫
 - 可能的解釋
-  - B of A: B是A的屬性，是整體與部份關係
-  - A with B: A帶有B，部份是配件，可有可無
+  - B of A: B 是 A 的屬性，是整體與部份關係
+  - A with B: A 帶有 B，部份是配件(可有可無)，無方向性
+  - A for B: 要給 B 的 A，有方向性
+  - A to B: 作用在 B 的 A，有方向性
+  - A on B: 在 B 上起作用的 A，某種條件
