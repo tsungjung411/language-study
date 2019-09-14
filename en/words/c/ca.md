@@ -1,0 +1,2 @@
+- [causality](https://tw.dictionary.search.yahoo.com/search?p=causality) [kɔˋzælətɪ] 因果關係, 2019.09.14
+  - cause + -ality 褲子已經洗下去，已經來不急，因果關係已經無法逆轉
