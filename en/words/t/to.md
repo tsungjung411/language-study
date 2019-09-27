@@ -1,0 +1,2 @@
+- [tomography](https://tw.dictionary.search.yahoo.com/search?p=tomography) [toˋmɑgrəfɪ] 【醫】局部X射線檢法（斷層攝影法）, 2019.09.27
+  - 對媽媽、哥ㄦ做斷層掃描
