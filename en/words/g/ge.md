@@ -4,7 +4,7 @@
 
 - [generic](https://tw.dictionary.search.yahoo.com/search?p=generic) [dʒɪˋnɛrɪk] , 2019.09.28
   - 一般的
-    - generic 
+    - 所有生物的基因(gene)，一般的形式皆由 A/C/T/G 組成
   
 - [genome](https://tw.dictionary.search.yahoo.com/search?p=genome) [ˋdʒi͵nom] 【生】基因組(基因體), 2019.07.30
   - 極諾生技(GenoRx) 是一間研究基因體(genome)的生技公司
