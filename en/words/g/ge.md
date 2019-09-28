@@ -2,6 +2,10 @@
 - [gene](https://tw.dictionary.search.yahoo.com/search?p=gene) [dʒin] 【生】基因，遺傳因子, 2019.07.26
   - 人人都想要擁有吉姆(Jim)的基因(gene)
 
+- [generic](https://tw.dictionary.search.yahoo.com/search?p=generic) [dʒɪˋnɛrɪk] , 2019.09.28
+  - 一般的
+    - generic 
+  
 - [genome](https://tw.dictionary.search.yahoo.com/search?p=genome) [ˋdʒi͵nom] 【生】基因組(基因體), 2019.07.30
   - 極諾生技(GenoRx) 是一間研究基因體(genome)的生技公司
 
