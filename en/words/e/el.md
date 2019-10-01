@@ -1,0 +1,4 @@
+- [elaborate](https://tw.dictionary.search.yahoo.com/search?p=elaborate) [ɪˋlæbə͵ret], 2019.10.02
+  - e-labor rate 電子勞工比例
+  - 精心製作的；精巧的；詳盡的
+    - 越多的電子勞工，越能製作出詳盡的產品，因為他們24小時都不休息
