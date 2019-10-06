@@ -5,7 +5,9 @@
 
 - [prone](https://tw.dictionary.search.yahoo.com/search?p=prone) [pron], 2019.10.06
   - adj. 有……傾向的
-    - error-prone 破銅爛鐵，容易有出錯的選項
+    - error-prone 容易出錯
+      - 破銅爛鐵，容易有出錯的選項
+        - prone 破爛
     
 - [prune](https://tw.dictionary.search.yahoo.com/search?p=prune) [prun], 2019.07.17
   - Vt. 修剪
