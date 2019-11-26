@@ -1,3 +1,7 @@
+- [incarnation](https://tw.dictionary.search.yahoo.com/search?p=incarnation) [͵ɪnkɑrˋneʃən] , 2019.11.26
+  - 典型，化身（象徵某種品質、概念或思想等）
+    - 蔡英文坐在車子裡(in car)，代表國家(nation)的化身(incarnation)
+  
 - [instrument](https://tw.dictionary.search.yahoo.com/search?p=instrument) [ˋɪnstrəmənt] 工具, 2019.07.30
   - 法師用鏟子工具(instrument)挖了那一個陰屍丘(instru)，阿們(ment)!
   
