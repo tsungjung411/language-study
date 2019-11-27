@@ -1,3 +1,6 @@
+- [augmentation](https://tw.dictionary.search.yahoo.com/search?p=augmentation) [͵ɔgmɛnˋteʃən], 2019.11.27
+  - n. 擴大，增加；增大
+  
 - [auxiliary](https://tw.dictionary.search.yahoo.com/search?p=auxiliary) [ɔgˋzɪljərɪ], 2019.08.11
   - 輔助的
     - auxiliary machinery[məˋʃinərɪ] 輔助機器
