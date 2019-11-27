@@ -3,4 +3,4 @@
   
 - [plate](https://tw.dictionary.search.yahoo.com/search?p=plate) [plet], 2019.11.27
   - 門牌；（醫生等的）名牌；（汽車等的）車牌[C]
-    - 把盤子黏在汽車上
+    - 把盤子(plate)黏在汽車上，當作車牌(plate)
