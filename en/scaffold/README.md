@@ -4,9 +4,11 @@
   - adverse response to drugs 對藥物的不良反應
   - Experiments on simulation data 模擬資料的實驗
   - calls with uncertainty 帶有不確定的呼叫
+  - Factors Affecting NGS 影響 NGS 的因素
 - 可能的解釋
   - B of A: B 是 A 的屬性，是整體與部份關係
   - A with B: A 帶有 B，部份是配件(可有可無)，無方向性
   - A for B: 要給 B 的 A，有方向性
   - A to B: 作用在 B 的 A，有方向性
   - A on B: 在 B 上起作用的 A，某種條件
+  - A + V-ing + O: 某個事件/動作產生出的 A
