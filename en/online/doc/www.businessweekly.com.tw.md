@@ -7,3 +7,5 @@
   <br>https://www.businessweekly.com.tw/article.aspx?id=4102&type=Blog
 - 同樣都是錢，停車費、租金、機票錢英文怎麼說？
   <br>https://www.businessweekly.com.tw/article.aspx?id=6112&type=Blog
+- 「做簡報」不是"do a presentation"！do、make、have的差別一次告訴你
+  <br>https://www.businessweekly.com.tw/careers/blog/19036
