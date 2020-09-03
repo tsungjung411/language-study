@@ -7,3 +7,6 @@
 
 - The term “invention” means invention or discovery
   <br>發明，係指發明或發現
+
+- significantly more
+  <br>更有意義
