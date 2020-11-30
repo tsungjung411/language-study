@@ -10,3 +10,7 @@
   <br>https://tw.blog.voicetube.com/archives/50052
 - 【實用英文】在國外購物卻看不懂特價的英文？學會這些單字，給你最划算的「大平台」！
   <br>https://tw.blog.voicetube.com/archives/33183
+- 超實用！！來看看 seem、look、appear三個「看起來」在文法與語意的差異！(2020/11/30)
+  <br>https://tw.blog.voicetube.com/archives/9764/
+  
+  
