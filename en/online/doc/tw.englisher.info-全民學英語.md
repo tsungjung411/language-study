@@ -3,3 +3,5 @@
   <br>https://tw.englisher.info/2016/10/31/confirming-someones-meaning/
 - 英文字彙|跟外太空有關的單字片語
   <br>https://tw.englisher.info/2017/08/12/british-english-accent-training-lesson-17-out-of-this-world/
+- 【upon 用法】一次搞懂英文on跟upon的用法差異！
+  <br>https://tw.englisher.info/2019/08/21/upon-on/
