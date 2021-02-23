@@ -12,5 +12,5 @@
   <br>https://tw.blog.voicetube.com/archives/33183
 - 超實用！！來看看 seem、look、appear三個「看起來」在文法與語意的差異！(2020/11/30)
   <br>https://tw.blog.voicetube.com/archives/9764/
-  
-  
+- @ 的英文怎麼說？不要再說小老鼠！標點符號英文唸法彙整
+  <br>https://tw.blog.voicetube.com/archives/34792/
