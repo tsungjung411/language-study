@@ -9,3 +9,5 @@
   <br>https://www.businessweekly.com.tw/article.aspx?id=6112&type=Blog
 - 「做簡報」不是"do a presentation"！do、make、have的差別一次告訴你
   <br>https://www.businessweekly.com.tw/careers/blog/19036
+- 電腦當機了！該用broke還是crash？
+  <br>https://www.businessweekly.com.tw/careers/blog/6215
