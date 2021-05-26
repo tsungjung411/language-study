@@ -6,6 +6,7 @@
   - calls with uncertainty 帶有不確定的呼叫
   - factors affecting NGS 影響 NGS 的因素
   - for all hardware devices attached to machine 用於連接到機器的所有硬體設備
+  - the time when the ground-truth was observed 觀察到基準真相的時間
 - 可能的解釋
   - B of A: B 是 A 的屬性，是整體與部份關係
   - A with B: A 帶有 B，部份是配件(可有可無)，無方向性
@@ -14,3 +15,4 @@
   - A on B: 在 B 上起作用的 A，某種條件
   - A + V-ing + O: 某個事件/動作產生出的 A
   - A + V-ed + O: 某個事件/動作產生出的 A
+  - A when B: B 事件產生出的 A
