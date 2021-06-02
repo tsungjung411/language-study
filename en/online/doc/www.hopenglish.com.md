@@ -3,3 +3,5 @@
   <br>https://www.hopenglish.com/a-deck-of-cards
 - 打折、搶便宜－－英文說法大集合
   <br>https://www.hopenglish.com/where-did-black-friday-come-from-2
+- 【NG 英文】英文縮寫『vs、v.s、vs.、v.s.』哪個才是正確的？點錯地方竟然變成別的字！
+  <br>https://www.hopenglish.com/hope-tips-versus
