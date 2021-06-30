@@ -1,5 +1,0 @@
-- [locus](https://tw.dictionary.search.yahoo.com/search?p=locus) [ˋlokəs], 2019.07.22
-  - 所在地
-    - 這顆[鏤刻](https://www.moedict.tw/~%E9%8F%A4%E5%88%BB)石(locus)所在地(locus)，我完完全全記得起來，因為那顆石頭被我刻上「到此一遊」
-  - [基因座](https://zh.wikipedia.org/wiki/%E5%9F%BA%E5%9B%A0%E5%BA%A7)
-    - 也稱為「基因位點」或「位點」，是指染色體上的固定位置，例如某個基因的所在。
