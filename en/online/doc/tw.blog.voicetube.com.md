@@ -16,3 +16,5 @@
   <br>https://tw.blog.voicetube.com/archives/34792/
 - 【生活英語】各式天災怎麼說？
   <br>https://tw.blog.voicetube.com/archives/31371/
+  - 天災(natural disaster)
+  - 極端氣候(extreme weather)
