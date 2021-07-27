@@ -18,3 +18,5 @@
   <br>https://tw.blog.voicetube.com/archives/31371/
   - 天災(natural disaster)
   - 極端氣候(extreme weather)
+- 【發燒英文】”X-sports”超夯！高空彈跳、滑板、攀岩、跳傘…「極限運動」英文怎麼說？
+  <br>https://tw.blog.voicetube.com/archives/25014/
