@@ -20,3 +20,5 @@
   - 極端氣候(extreme weather)
 - 【發燒英文】”X-sports”超夯！高空彈跳、滑板、攀岩、跳傘…「極限運動」英文怎麼說？
   <br>https://tw.blog.voicetube.com/archives/25014/
+- 【看電影學英文】隕石、流星怎麼說？酷寒顫士喜得、蠻尼、狄亞哥教你托福必考單字！
+  <br>https://tw.blog.voicetube.com/archives/49520/
