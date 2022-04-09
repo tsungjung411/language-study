@@ -7,3 +7,5 @@
   <br>https://tw.englisher.info/2019/08/21/upon-on/
 - 休假、請假、放假英文是？搞懂leave、day off、vacation 中文意思！
   <br>https://tw.englisher.info/2019/08/06/leave-day-off-vacation/
+- 英文 as below / as follows 用法與中文意思！用英文表達「如下…」
+  <br>https://tw.englisher.info/2021/03/19/as-below-as-follows/
