@@ -6,3 +6,5 @@
   <br>https://kknews.cc/news/aa2399g.html
 - 「吃飽了撐的」英文竟然這麼說？！
   <br>https://kknews.cc/education/ynexkya.html
+- suppose、assume、presume都是假設
+  <br>https://kknews.cc/science/ya2jalg.html
