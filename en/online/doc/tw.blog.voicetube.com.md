@@ -22,3 +22,5 @@
   <br>https://tw.blog.voicetube.com/archives/25014/
 - 【看電影學英文】隕石、流星怎麼說？酷寒顫士喜得、蠻尼、狄亞哥教你托福必考單字！
   <br>https://tw.blog.voicetube.com/archives/49520/
+- 50個廁所＆浴室超實用單字，讓英文完美結合你的生活！
+  <br>https://tw.blog.voicetube.com/archives/56375/
