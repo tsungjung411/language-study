@@ -8,3 +8,5 @@
   <br>https://kknews.cc/education/ynexkya.html
 - suppose、assume、presume都是假設
   <br>https://kknews.cc/science/ya2jalg.html
+- 「下大雨」還在說"rain cats and dog"？外國人早就不這麼說了！
+  <br>https://kknews.cc/pet/9ovxmn8.html
