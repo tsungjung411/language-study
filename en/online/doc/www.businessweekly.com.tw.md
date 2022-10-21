@@ -15,3 +15,5 @@
   <br>https://www.businessweekly.com.tw/careers/blog/6215
 - 林書豪教你：什麼情況which前面要加 in、on、at
   <br>https://www.businessweekly.com.tw/careers/blog/5490
+- 不禮貌！別對老外說"You go first"
+  <br>https://www.businessweekly.com.tw/careers/blog/4794
