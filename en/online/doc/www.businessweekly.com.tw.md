@@ -17,3 +17,5 @@
   <br>https://www.businessweekly.com.tw/careers/blog/5490
 - 不禮貌！別對老外說"You go first"
   <br>https://www.businessweekly.com.tw/careers/blog/4794
+- 英文履歷表總是寫"was responsible for…"？換成這一句讓你專業度更加分
+  <br>https://www.businessweekly.com.tw/careers/blog/17577
