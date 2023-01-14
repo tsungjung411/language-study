@@ -26,3 +26,5 @@
   <br>https://tw.blog.voicetube.com/archives/56375/
 - diner 不是晚餐，bistro 也不一定是小酒館，11種用餐形式大搜密
   <br>https://tw.blog.voicetube.com/archives/31938/
+- 遊樂園英文知多少？台灣遊樂園、相關單字大統整！
+  <br>https://tw.blog.voicetube.com/archives/83663/
