@@ -14,6 +14,8 @@
   <br>https://tw.blog.voicetube.com/archives/33183/
 - @ 的英文怎麼說？不要再說小老鼠！標點符號英文唸法彙整
   <br>https://tw.blog.voicetube.com/archives/34792/
+- 【生活英文】按讚除了 like，國外還會怎麼說？發廢文、打卡等 Facebook 用語大集合！
+  <br>https://tw.blog.voicetube.com/archives/39877/
 - 【看電影學英文】隕石、流星怎麼說？酷寒顫士喜得、蠻尼、狄亞哥教你托福必考單字！
   <br>https://tw.blog.voicetube.com/archives/49520/
 - 字首 -con 大彙整！20 個高頻率單字迅速印腦中
