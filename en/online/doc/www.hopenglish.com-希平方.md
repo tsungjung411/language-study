@@ -10,3 +10,5 @@
   <br>https://www.hopenglish.com/hope-tips-instead-of-and-instead
 - 【吃素學英文】『全素』、『蛋奶素』、『方便素』英文怎麼說？
   <br>https://www.hopenglish.com/hope-tips-vegetable-song
+- himself 和 by himself 的用法差異
+  <br>https://www.hopenglish.com/hope-tips-peppa-pig-lunch
