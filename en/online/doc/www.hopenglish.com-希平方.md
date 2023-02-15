@@ -12,3 +12,5 @@
   <br>https://www.hopenglish.com/hope-tips-vegetable-song
 - himself 和 by himself 的用法差異
   <br>https://www.hopenglish.com/hope-tips-peppa-pig-lunch
+- 【NG 英文】不要再說 many vocabularies 了！
+  <br>https://www.hopenglish.com/hope-tips-should-we-say-vocabulary-or-vocabularies
